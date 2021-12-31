@@ -1,3 +1,3 @@
 # Demo space
 
-A space for developement and emptyness
+A space for developement and emptyness.
